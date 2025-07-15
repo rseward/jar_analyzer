@@ -1,8 +1,10 @@
 # JAR Analyzer
 
-opencode with claude-sonnet-3.7 coded this useful java tool.
+opencode-ai with claude-sonnet-3.7 coded this useful java tool.
 
-A Python tool for indexing and searching Java classes in JAR/WAR files.
+- https://github.com/opencode-ai/opencode
+
+This Python tool implements jar indexing and class searching for Java JAR/WAR files.
 
 ## Features
 

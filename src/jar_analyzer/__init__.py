@@ -1,0 +1,1 @@
+"""JAR Analyzer package for indexing and searching Java class files in JAR/WAR archives."""

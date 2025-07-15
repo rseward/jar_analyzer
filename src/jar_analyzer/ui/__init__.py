@@ -1,0 +1,1 @@
+"""UI module for searching and displaying indexed JAR/WAR file contents."""

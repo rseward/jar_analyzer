@@ -1,0 +1,5 @@
+prompt_toolkit>=3.0.0
+tqdm>=4.65.0
+click>=8.0.0
+# Optional for clipboard support
+pyperclip>=1.8.0
